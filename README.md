@@ -1,7 +1,13 @@
 # Luanna Aquino
 
+Full stack developer
+
 [![Linkedin Badge](https://img.shields.io/badge/-Luanna%20Aquino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanna-aquino/)](https://www.linkedin.com/in/luanna-aquino/) 
 [![Gmail Badge](https://img.shields.io/badge/-luannaaquino24@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luannaaquino24@gmail.com)](mailto:luannaaquino24@gmail.com)
+
+## Estatísticas :rocket:
+
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Luannaaquino&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
 
 <!--
 **Luannaaquino/Luannaaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
