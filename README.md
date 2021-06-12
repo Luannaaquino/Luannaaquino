@@ -9,6 +9,7 @@ Full stack developer
 ## Estatísticas :rocket:
 
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Luannaaquino&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luannaaquino&layout=compact" />
 
 <!--
 **Luannaaquino/Luannaaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
