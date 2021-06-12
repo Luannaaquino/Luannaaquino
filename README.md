@@ -9,7 +9,7 @@ I am a curious developer and I always learning!.
 - 💬 Ask me about anything! seriously! I would be extremely happy to help you.
 - 📫 How to reach me? You can send me a message in my Linkedin or a email :smile:.
 
-## Estatísticas :rocket:
+## Statistics :rocket:
 
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Luannaaquino&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luannaaquino&layout=compact" />
