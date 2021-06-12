@@ -1,6 +1,6 @@
 # Luanna Aquino
 
-## I am a curious developer and I always learning!.
+I am a curious developer and I always learning!.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luanna%20Aquino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanna-aquino/)](https://www.linkedin.com/in/luanna-aquino/) 
 [![Gmail Badge](https://img.shields.io/badge/-luannaaquino24@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luannaaquino24@gmail.com)](mailto:luannaaquino24@gmail.com)
