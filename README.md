@@ -10,11 +10,6 @@ I am a curious developer and I always learning!.
 [![Gmail Badge](https://img.shields.io/badge/-luannaaquino24@gmail.com-6495ED?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luannaaquino24@gmail.com)](mailto:luannaaquino24@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@luanna.aquino-6495ED?style=flat-square&labelColor=6495ED&logo=instagram&logoColor=white&link=https://www.instagram.com/luanna.aquino)](https://www.instagram.com/luanna.aquino)
 
-## Statistics :rocket:
-
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Luannaaquino&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luannaaquino&layout=compact" />
-
 <!--
 **Luannaaquino/Luannaaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
